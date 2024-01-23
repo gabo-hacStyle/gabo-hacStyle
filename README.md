@@ -8,10 +8,9 @@ I'm looking for a job opportunity to expand my professional knowledge and gain m
 
 Here you can see some of my favorite projects that I have worked on! 
 
-1. 📚Academic Platform. 
-2. 📋To-do Machine. 
-3. 👨🏻‍⚖️ Login/Register App & Dashboard. 
-
+1. 📚Academic Platform: This application is designed to manage courses, students, and users as an academic manager in an institution. It uses localStorage. Admin can create, edit and delete endpoints.
+2. 📋To-do Machine: It serves as a simple to-do list manager that utilizes local storage for data persistence. Users can create new to-dos, mark them as completed, and delete unnecessary tasks. 
+3. 👨🏻‍⚖️ Login/Register App & Dashboard:  Web application with a common  user flow in order to vinculate an user to some platform, login and see a dashboard. This project comes along with its own database and backend built with django.
 ## 🛠️ Skills
 Skills developed among time...
 - Django

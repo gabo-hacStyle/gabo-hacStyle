@@ -8,15 +8,15 @@ I'm looking for a job opportunity to expand my professional knowledge and gain m
 
 Here you can see some of my favorite projects that I have worked on! 
 
-1. 📚Academic Platform: This application is designed to manage courses, students, and users as an academic manager in an institution. It uses localStorage. Admin can create, edit and delete endpoints.
-2. 📋To-do Machine: It serves as a simple to-do list manager that utilizes local storage for data persistence. Users can create new to-dos, mark them as completed, and delete unnecessary tasks. 
-3. 👨🏻‍⚖️ Login/Register App & Dashboard:  Web application with a common  user flow in order to vinculate an user to some platform, login and see a dashboard. This project comes along with its own database and backend built with django.
+1. 📚Academic Platform: This application is designed to manage courses, students, and users as an academic manager in an institution. It uses localStorage. Admin can create, edit and delete endpoints. [See more](https://academic-platform.vercel.app/) | [See repo](https://github.com/gabo-hacStyle/academic-platform)
+2. 📋To-do Machine: It serves as a simple to-do list manager that utilizes local storage for data persistence. Users can create new to-dos, mark them as completed, and delete unnecessary tasks. [See more](https://gabo-hacstyle.github.io/to-do-machine/) | [See repo](https://github.com/gabo-hacStyle/to-do-machine) 
+3. 👨🏻‍⚖️ Login/Register App & Dashboard:  Web application with a common  user flow in order to vinculate an user to some platform, login and see a dashboard. This project comes along with its own database and backend built with django. [See repo](https://github.com/gabo-hacStyle/PruebaSoftware_01-2024/tree/Gabriel_Fajardo)
 ## 🛠️ Skills
 Skills developed among time...
 - Django
 - TypeScript
 - Github Copilot
-- ReactJS
+- ReactJS 
 - ExpressJs
 - Node
 - JavaScript 
@@ -24,8 +24,8 @@ Skills developed among time...
 - CSS
 
 ## 💬Languages 
-- Spanish (fluid)
-- Portuguese (fluid)
+- Spanish (fluemt)
+- Portuguese (fluent)
 - English level C1 (Conversational and professional)
 ## 👯  I’m looking to collaborate on...
 Active teams with passion in innovation and productivity. Those impacting not only the tech world, but also the real world. Those trying to improve and simplify day-to-day common activities for people. 

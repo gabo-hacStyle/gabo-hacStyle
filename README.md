@@ -1,7 +1,7 @@
 # I'm Gabriel Fajardo | @gabo-hacStyle 👋
 
 ## 🚀 About Me
-I'm a passionate developer from Brazil living in the beautiful country of Colombia, with vast experience in Frontend development using HTML, CSS, and ReactJS (+3 years) and currently learning python and Django for backend development. I love tackling new challenges and learning new technologies.
+I'm a passionate developer from Brazil living in the beautiful country of Colombia, with vast experience in Frontend development using HTML, CSS, ReactJS, NextJS as SSR. Also, I've got along with backend and ⭐data⭐ world. I love tackling new challenges and learning new technologies.
 
 ## 👨‍💻 Projects
 
@@ -14,6 +14,7 @@ Here you can see some of my favorite projects I have worked on!
 
 ## 🛠️ Skills
 Skills developed over time...
+- 🌟NextJS🌟
 - Django
 - TypeScript
 - Github Copilot

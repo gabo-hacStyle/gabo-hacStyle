@@ -1,26 +1,39 @@
 # I'm Gabriel Fajardo | @gabo-hacStyle 👋
 
 ## 🚀 About Me
-I'm a passionate developer from Brazil living in the beautiful country of Colombia, with vast experience in Frontend development using HTML, CSS, ReactJS, NextJS as SSR. Also, I've got along with backend and ⭐data⭐ world. I love tackling new challenges and learning new technologies.
+I'm a passionate person, mid-senior developer from Brazil living in the beautiful country of Colombia, with vast experience (+4 y) in Frontend development. From good sense of UX/UI all the waay to having experience in using the most updated tools in the area. Also, I've got along with backend and the⭐data⭐ world. I love tackling new challenges and learning new technologies! 💪
 
-## 👨‍💻 Projects
+## 👨‍💻  Experience 
+
+1. **📊💱Proyecto Dragon | Kairos Research:**
+   My most-proud platform built. This is a completely functional platform built with NextJS14, TailwindCSS and Typescript for a company in the USA which impacts LATAM by bringing the newest crypto info totally attinable for spanish-speakers.  Covering different applications in this plataform such as dashboard analytics, whatchlist of tokens and projects, as well as a lessons section, I have learnt the best techniques to cache info, having dynamic data constantly updating automatically, creating a complete on-boarding process for new-users, among other especialities. This web platform is fully responsive.  [See more](https://www.dragon.kairosresearch.xyz/) | [See repo](https://github.com/KairosResearch/HazteAnalistaFrontEnd)
+2. **📰 Fatela | Fatela Online :**
+   In this case, less code, more UI/UX techinques. I collaborated with a academic organization based in USA with students in LATAM. My job, to make their sites more confortable for the end users and helped them accomplishing an easier behave of the viewers in the page, proposing improvements in the interfaces and user's flow. However, yes, I touched some code to make it look better 👩‍💻 [See fatela](https://fatela.org/maestria-liderazgo/) | [See fatela-online](https://www.fatelaonline.org/) 
+
+## 👨‍💻 Personal projects
 
 Here you can see some of my favorite projects I have worked on! 
 
-1. **📚Academic Platform:** This application is designed to manage courses, students, and users as an academic manager in an institution. It uses localStorage. Admin can create, edit, and delete endpoints. [See more](https://academic-platform.vercel.app/) | [See repo](https://github.com/gabo-hacStyle/academic-platform)
-2. **📰 Dashboard:** A comprehensive dashboard for e-commerce. Its features can help you visualize data in a very practical way. Of course, is also responsive and supports light/dark themes. The application was built using React, ViteJS, and Tailwind CSS for styling. [See more](https://dashboard-app-psi-vert.vercel.app/) | [See repo](https://github.com/gabo-hacStyle/dashboard-app) 
-3. **👨🏻‍⚖️ Login/Register & Dashboard API:** Backend built with django and django-rest-framework. Authentication and registration services for users have already been implemented. In this API, the data is auto-generated in the backend --> according to the data it creates a whole graphic and is sent through the API as a base64-uri ready to be consumed by the frontend client in the dashboard!!  [See repo](https://github.com/gabo-hacStyle/auth-backend.git)
-4. **📋To-do Machine:** It serves as a simple to-do list manager that utilizes local storage for data persistence. Users can create new to-dos, mark them as completed, and delete unnecessary tasks. [See more](https://gabo-hacstyle.github.io/to-do-machine/) | [See repo](https://github.com/gabo-hacStyle/to-do-machine) 
+1. **📚Academic Platform:**
+   This application is designed to manage courses, students, and users as an academic manager in an institution. It uses localStorage. Admin can create, edit, and delete endpoints. [See more](https://academic-platform.vercel.app/) | [See repo](https://github.com/gabo-hacStyle/academic-platform)
+3. **📰 Dashboard:**
+   A comprehensive dashboard for e-commerce. Its features can help you visualize data in a very practical way. Of course, is also responsive and supports light/dark themes. The application was built using React, ViteJS, and Tailwind CSS for styling. [See more](https://dashboard-app-psi-vert.vercel.app/) | [See repo](https://github.com/gabo-hacStyle/dashboard-app) 
+5. **👨🏻‍⚖️ Login/Register & Dashboard API:**
+   Backend built with django and django-rest-framework. Authentication and registration services for users have already been implemented. In this API, the data is auto-generated in the backend --> according to the data it creates a whole graphic and is sent through the API as a base64-uri ready to be consumed by the frontend client in the dashboard!!  [See repo](https://github.com/gabo-hacStyle/auth-backend.git)
+7. **📋To-do Machine:**
+   It serves as a simple to-do list manager that utilizes local storage for data persistence. Users can create new to-dos, mark them as completed, and delete unnecessary tasks. [See more](https://gabo-hacstyle.github.io/to-do-machine/) | [See repo](https://github.com/gabo-hacStyle/to-do-machine) 
 
 ## 🛠️ Skills
 Skills developed over time...
-- 🌟NextJS🌟
-- Django
+- 🌟NextJS 14🌟
+- Vercel
+- SWR
 - TypeScript
-- Github Copilot
-- ReactJS 
+- ReactJS
+- TailwindCSS
+- Django
 - ExpressJs
-- Node
+- NodeJS
 - JavaScript 
 - HTML 
 - CSS

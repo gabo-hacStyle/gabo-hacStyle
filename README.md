@@ -1,7 +1,24 @@
 # I'm Gabriel Fajardo | @gabo-hacStyle 👋
 
 ## 🚀 About Me
-I'm a passionate person, mid-senior developer from Brazil living in the beautiful country of Colombia, with vast experience (+4 y) in Frontend development. From good sense of UX/UI all the waay to having experience in using the most updated tools in the area. Also, I've got along with backend and the⭐data⭐ world. I love tackling new challenges and learning new technologies! 💪
+I'm a passionate person, mid-senior developer from Brazil living in the beautiful country of Colombia, with vast experience (+4 y) in web development. From good sense of UX/UI all the waay to having experience in using the most updated tools in the area. I love tackling new challenges and learning new technologies! 💪
+
+## 👨‍💻 Personal projects
+
+Here you can see some of my favorite and most robust projects I have worked on! 
+
+1. **📚⌚Historical Academic Platform:**
+   Comprehensive data analysis platform for historical data of an academic institution, presented through a website deployed with Docker. This project brings together all the professional skills acquired over time. This is a fully responsive, accesible, and internationalized application. Like PowerBi, beautiful and organized charts of data are presented to three different roles of users accordingly. Executives can take actions based on reports that can be downloaded as PDF ditrectly from the web. Data is updated every week.   [See more](https://fatela-ea-front.vercel.app/) | [See repo (front)](https://github.com/gabo-hacStyle/fatela-ea-front) | [See repo (backend)](https://github.com/gabo-hacStyle/backend-fatela-data)
+2. **📰 Dashboard:**
+   A comprehensive dashboard for e-commerce. Its features can help you visualize data in a very practical way. Of course, is also responsive and supports light/dark themes. The application was built using React, ViteJS, and Tailwind CSS for styling. [See more](https://dashboard-app-psi-vert.vercel.app/) | [See repo](https://github.com/gabo-hacStyle/dashboard-app) 
+3. **👨🏻‍⚖️ Login/Register & Dashboard API:**
+   Backend built with django and django-rest-framework. Authentication and registration services for users have already been implemented. In this API, the data is auto-generated in the backend --> according to the data it creates a whole graphic and is sent through the API as a base64-uri ready to be consumed by the frontend client in the dashboard!!  [See repo](https://github.com/gabo-hacStyle/auth-backend.git)
+
+If you need a data junior ...
+4. **Adventure Works:**
+Complete data project for a "fictitious" company, AdventureWorks. Data extraction, transformation in DBT, and presentation in PowerBi.  [See Repo](https://github.com/gabo-hacStyle/adventure-works-ea)
+
+
 
 ## 👨‍💻  Experience 
 
@@ -10,26 +27,14 @@ I'm a passionate person, mid-senior developer from Brazil living in the beautifu
 2. **📰 Fatela | Fatela Online :**
    In this case, less code, more UI/UX techinques. I collaborated with a academic organization based in USA with students in LATAM. My job, to make their sites more confortable for the end users and helped them accomplishing an easier behave of the viewers in the page, proposing improvements in the interfaces and user's flow. However, yes, I touched some code to make it look better 👩‍💻 [See fatela](https://fatela.org/maestria-liderazgo/) | [See fatela-online](https://www.fatelaonline.org/) 
 
-## 👨‍💻 Personal projects
-
-Here you can see some of my favorite projects I have worked on! 
-
-1. **📚⌚Historical Academic Platform:**
-   Comprehensive data analysis platform for historical data of an academic institution, presented through a website deployed with Docker. This project brings together all the professional skills acquired over time. This is a fully responsive, accesible, and internationalized application. Like PowerBi, beautiful and organized charts of data are presented to three different roles of users accordingly. Executives can take actions based on reports that can be downloaded as PDF ditrectly from the web. Data is updated every week.   [See more](https://fatela-ea-front.vercel.app/) | [See repo (front)](https://github.com/gabo-hacStyle/fatela-ea-front) | [See repo (backend)](https://github.com/gabo-hacStyle/backend-fatela-data)
-2. **📰 Dashboard:**
-   A comprehensive dashboard for e-commerce. Its features can help you visualize data in a very practical way. Of course, is also responsive and supports light/dark themes. The application was built using React, ViteJS, and Tailwind CSS for styling. [See more](https://dashboard-app-psi-vert.vercel.app/) | [See repo](https://github.com/gabo-hacStyle/dashboard-app) 
-3. **👨🏻‍⚖️ Login/Register & Dashboard API:**
-   Backend built with django and django-rest-framework. Authentication and registration services for users have already been implemented. In this API, the data is auto-generated in the backend --> according to the data it creates a whole graphic and is sent through the API as a base64-uri ready to be consumed by the frontend client in the dashboard!!  [See repo](https://github.com/gabo-hacStyle/auth-backend.git)
-4. **📋To-do Machine:**
-   It serves as a simple to-do list manager that utilizes local storage for data persistence. Users can create new to-dos, mark them as completed, and delete unnecessary tasks. [See more](https://gabo-hacstyle.github.io/to-do-machine/) | [See repo](https://github.com/gabo-hacStyle/to-do-machine) 
-
 ## 🛠️ Skills
 Skills developed over time...
 - 🌟NextJS 14🌟
+- SQL
 - Java
 - Spring Boot
 - Docker
-- Linux system administration
+- Linux 
 - Vercel
 - SWR
 - TypeScript
@@ -37,9 +42,8 @@ Skills developed over time...
 - TailwindCSS
 - Django
 - NodeJS
-- JavaScript 
-- HTML 
-- CSS
+- DBT
+- PowerBI
 
 ## 💬Languages 
 - Spanish (fluent)
